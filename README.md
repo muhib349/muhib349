@@ -1,8 +1,8 @@
 ## Hi, I'm Gazi Mohib
 
 - Skilled in Native Android and Flutter, currently learning and working in microservice architecture with Spring Boot, Spring Cloud, Docker, and others.
-- Working in a Fintech team at Brain Station 23 Ltd as a Software Engineer.
-- Experienced in event-driven microservices using Spring Boot and Apache Kafka.
+- Worked in a Fintech team at Brain Station 23 Ltd as a Software Engineer.
+- Sound knowledge of event-driven microservice architecture using Spring Boot and Apache Kafka.
 - Well-concerned about clean code, and best practices by maintaining OOP, design patterns, and SOLID principles.
 - Continuous problem solver and passionate about distributed system design.
 - Ask me about Java, Kotlin, Microservice Architecture, Android, and Flutter Development.
