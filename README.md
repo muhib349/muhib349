@@ -2,10 +2,11 @@
 
 - Full-Stack Software Engineer with almost 5 years of experience in Native Android, Flutter, and Spring framework.
 - Working in a Fintech team at Brain Station 23 Ltd in an Agile environment.
-- Sound knowledge of event-driven microservice architecture using Spring Boot, Spring Cloud and Apache Kafka.
+- Proficient in Android development using the latest technologies, including Jetpack Compose, Kotlin, MVVM architecture, Coroutines, Flow, LiveData, Room Database, Retrofit, and Dagger/Hilt for dependency injection.
+<!-- - Sound knowledge of event-driven microservice architecture using Spring Boot, Spring Cloud and Apache Kafka. -->
 - Well-concerned about clean code, and best practices by maintaining OOP, design patterns, and SOLID principles.
 - Continuous problem solver and passionate about distributed system design.
-- Ask me about Java, Kotlin, Spring Framework, Microservice Architecture, and Android Development.
+- Ask me about Java, Kotlin, Android Development, Flutter, and Spring Framework.
 - Reach me by [LinkedIn](https://www.linkedin.com/in/gazi-mohib-385352114/) | muhibgazi@gmail.com
 
 ##
