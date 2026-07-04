@@ -1,12 +1,13 @@
 ## Hi, I'm Gazi Mohib
 
-- Full-Stack Software Engineer with almost 5 years of experience in Native Android, Flutter, and Spring framework.
-- Working in a Fintech team at Brain Station 23 Ltd in an Agile environment.
-- Proficient in Android development using the latest technologies, including Jetpack Compose, Kotlin, MVVM architecture, Coroutines, Flow, LiveData, Room Database, Retrofit, and Dagger/Hilt for dependency injection.
-<!-- - Sound knowledge of event-driven microservice architecture using Spring Boot, Spring Cloud and Apache Kafka. -->
-- Well-concerned about clean code, and best practices by maintaining OOP, design patterns, and SOLID principles.
-- Continuous problem solver and passionate about distributed system design.
-- Ask me about Java, Kotlin, Android Development, Flutter, and Spring Framework.
+- Java Software Engineer at Gentrack UK, contributing to enterprise software solutions for leading UK energy suppliers.
+- Around 7 years of software engineering experience across backend development, Android, Flutter, and enterprise software systems.
+- Experienced in Java, Spring Boot, RESTful APIs, SQL, distributed systems, cloud technologies, and product-led software development.
+- Previously built and maintained Android and Flutter applications in the fintech, banking, remittance, and utility sectors before transitioning into backend engineering.
+- AWS Certified Developer – Associate with a strong interest in cloud-native applications, microservices architecture, and scalable distributed systems.
+- Passionate about clean code, software architecture, performance optimisation, and continuous learning.
+- Advocate for engineering best practices, including SOLID principles, design patterns, code reviews, and collaborative software development.
+- Outside work, I enjoy mentoring aspiring software engineers, contributing to open-source projects, and sharing technical knowledge through blogs and educational content.
 - Reach me by [LinkedIn](https://www.linkedin.com/in/gazi-mohib-385352114/) | muhibgazi@gmail.com
 
 ##
